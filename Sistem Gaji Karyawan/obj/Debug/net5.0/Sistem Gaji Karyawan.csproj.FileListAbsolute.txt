@@ -1,0 +1,16 @@
+D:\Sistem Gaji Karyawan\bin\Debug\net5.0\Sistem Gaji Karyawan.exe
+D:\Sistem Gaji Karyawan\bin\Debug\net5.0\Sistem Gaji Karyawan.deps.json
+D:\Sistem Gaji Karyawan\bin\Debug\net5.0\Sistem Gaji Karyawan.runtimeconfig.json
+D:\Sistem Gaji Karyawan\bin\Debug\net5.0\Sistem Gaji Karyawan.runtimeconfig.dev.json
+D:\Sistem Gaji Karyawan\bin\Debug\net5.0\Sistem Gaji Karyawan.dll
+D:\Sistem Gaji Karyawan\bin\Debug\net5.0\ref\Sistem Gaji Karyawan.dll
+D:\Sistem Gaji Karyawan\bin\Debug\net5.0\Sistem Gaji Karyawan.pdb
+D:\Sistem Gaji Karyawan\obj\Debug\net5.0\Sistem Gaji Karyawan.csprojAssemblyReference.cache
+D:\Sistem Gaji Karyawan\obj\Debug\net5.0\Sistem Gaji Karyawan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sistem Gaji Karyawan\obj\Debug\net5.0\Sistem Gaji Karyawan.AssemblyInfoInputs.cache
+D:\Sistem Gaji Karyawan\obj\Debug\net5.0\Sistem Gaji Karyawan.AssemblyInfo.cs
+D:\Sistem Gaji Karyawan\obj\Debug\net5.0\Sistem Gaji Karyawan.csproj.CoreCompileInputs.cache
+D:\Sistem Gaji Karyawan\obj\Debug\net5.0\Sistem Gaji Karyawan.dll
+D:\Sistem Gaji Karyawan\obj\Debug\net5.0\ref\Sistem Gaji Karyawan.dll
+D:\Sistem Gaji Karyawan\obj\Debug\net5.0\Sistem Gaji Karyawan.pdb
+D:\Sistem Gaji Karyawan\obj\Debug\net5.0\Sistem Gaji Karyawan.genruntimeconfig.cache

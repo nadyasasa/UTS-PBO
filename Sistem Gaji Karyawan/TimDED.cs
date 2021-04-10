@@ -12,7 +12,8 @@ namespace Sistem_Gaji_Karyawan
         }
         public override double Gaji()
         {
-            if (luas%100 == 0) return Fee;
+            if (luas%100 == 0) 
+                return Fee*(luas/100);
             else 
                 return (((luas%100)*7500)+Fee);
         }

@@ -15,7 +15,7 @@ namespace Sistem_Gaji_Karyawan
             if (luas%100 == 0) 
                 return Fee*(luas/100);
             else 
-                return (((luas%100)*7500)+Fee);
+                return (luas*7500);
         }
             public override void display(){
             double a = Gaji();
